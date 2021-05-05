@@ -14,8 +14,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:karlla.souzza7@gmail.com)](mailto:karlla.souzza7@gmail.com)
 
 <h1>Sobre</H1>
-![Karlla Souzza Status](https://github-readme-stats.vercel.app/api?username=Karllasouzza&show_icons=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Karllasouzza&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Karllasouzza Status](https://github-readme-stats.vercel.app/api?username=karllasouzza&show_icons=true)
