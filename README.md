@@ -18,10 +18,13 @@ Luto por uma web para todos e contra todo tipo de preconceito.
 <h1> O que estou aprendendo na faculdade? 💻</h1>
 
 - Html5
-- Css
+- Css3
 - JavaScript
-- VueJs/Nuxt
-- PHP/Laravel
+- VueJs / Nuxt
+- PHP / Laravel 
+- Modelagem de banco de dados Sql
+- WordPress / Elementor
+- Web Design / Design para plataformas (Design Fisico)
 
 <h1>Estatisticas 🚀</h1>
 
@@ -36,8 +39,8 @@ Luto por uma web para todos e contra todo tipo de preconceito.
 
 <h1>O que estou aprendendo?</h1>
 
-- Modelagem 3d;
-- C##;
-- Quasar Framework;
-- NativeScript - VueJs;
-- Vue Native.
+- Modelagem 3d
+- C##
+- Quasar Framework
+- NativeScript - VueJs
+- Vue Native
