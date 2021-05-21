@@ -7,6 +7,7 @@ Meu primeiro contato com programação foi em janeiro de 2020 na faculdade, desd
 Luto por uma web para todos e contra todo tipo de preconceito.
 
 <h1> Paixões 💞 </h1>
+
 - Músicas 🎶;
 - Ensinar web design ✒️;
 - Ensinar programação web 💻;
@@ -15,6 +16,7 @@ Luto por uma web para todos e contra todo tipo de preconceito.
 - Lutar por uma web para todos ♿.
 
 <h1> O que estou aprendendo na faculdade? 💻</h1>
+
 - Html5
 - Css
 - JavaScript
@@ -33,7 +35,6 @@ Luto por uma web para todos e contra todo tipo de preconceito.
 - O Design Do Dia Dia.
 
 <h1>O que estou aprendendo?</h1>
-
 
 - Modelagem 3d;
 - C##;
