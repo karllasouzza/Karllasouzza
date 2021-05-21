@@ -1,35 +1,41 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:karlla.souzza7@gmail.com)](mailto:karlla.souzza7@gmail.com)
 
-<h1>About 🌈</h1>
+<h1>Sobre 🌈</h1>
 
-My name is 'Júlio Cesar Pereira Filho', I am a transsexual woman and my social name is 'Karlla Souzza'. I like to follow my heart and I discovered a passion for web programming and web design, I am passionate about books, I like to write documents to help people in web development.
-My first contact with programming was in January 2020 at college, since then I have been deepening my knowledge and expanding to design.
-I fight for a web for everyone and against all kinds of prejudice.
+Meu nome é 'Júlio Cesar Pereira Filho', sou uma mulher transexual e meu nome social é 'Karlla Souzza'. Gosto de seguir o meu coração e descobri uma paixão por programação web e web design, sou apaixonada por livros, gosto de escrever documentos para ajudar as pessoas no desenvolvimento web.
+Meu primeiro contato com programação foi em janeiro de 2020 na faculdade, desde então venho aprofundando meus conhecimentos e expandindo para o design.
+Luto por uma web para todos e contra todo tipo de preconceito.
 
-### Passions 💞
-- Songs 🎶;
-- Teach web design ✒️;
-- Teach web programming 💻;
-- Read books 📚;
-- Fight against any and all prejudice 🌈;
-- Fight for a web for everyone ♿.
+<h1> Paixões 💞 </h1>
+- Músicas 🎶;
+- Ensinar web design ✒️;
+- Ensinar programação web 💻;
+- Leir livros 📚;
+- Lutar contra todo e qualquer preconceito 🌈;
+- Lutar por uma web para todos ♿.
 
+<h1> O que estou aprendendo na faculdade? 💻</h1>
+- Html5
+- Css
+- JavaScript
+- VueJs/Nuxt
+- PHP/Laravel
 
-<h1>Statistics 🚀</h1>
+<h1>Estatisticas 🚀</h1>
 
-![Karllasouzza Status](https://github-readme-stats.vercel.app/api?username=karllasouzza&show_icons=true)
+![Karllasouzza Estatisticas](https://github-readme-stats.vercel.app/api?username=karllasouzza&show_icons=true)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karllasouzza&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Melhores linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karllasouzza&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<h1>Right now, I'm reading 📒</h1>
+<h1>O 'que estou lendo Atualmente 📒 ?</h1>
 
 - Design Para Quem Não É Designer;
 - O Design Do Dia Dia.
 
-<h1>What am I learning again?</h1>
+<h1>O que estou aprendendo?</h1>
 
 
-- 3d Modeling;
+- Modelagem 3d;
 - C##;
 - Quasar Framework;
 - NativeScript - VueJs;
