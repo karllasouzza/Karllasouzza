@@ -1,8 +1,8 @@
 <br />
 
-<p display="flex" justf-content="space-arround" align-item="center">
-  <img src="https://raw.githubusercontent.com/karllasouzza/Karllasouzza/main/Label-sobre.png" alt="Sobre" />
-</p>
+<span display="flex" justf-content="space-arround" align-item="center">
+  <img noopener target="none" src="./Label-sobre.png" alt="Sobre" />
+</span>
 <br />
 
 
@@ -15,7 +15,7 @@ Luto por uma web para todos e contra todo e qualquer tipo de preconceito dentro 
 
 
 <p display="flex" justf-content="space-arround" align-item="center">
-  <img src="https://raw.githubusercontent.com/karllasouzza/Karllasouzza/main/Label-lovers.png" alt="Paixoes" />
+  <img src="./Label-lovers.png" alt="Paixoes" />
 </p>
 
 <br />
@@ -34,7 +34,7 @@ Luto por uma web para todos e contra todo e qualquer tipo de preconceito dentro 
 <br />
 
 <p display="flex" justf-content="space-arround" align-item="center">
-  <img src="https://raw.githubusercontent.com/karllasouzza/Karllasouzza/main/Label-aprendendo.png" alt="Aprendendo" />
+  <img src="./Label-aprendendo.png" alt="Aprendendo" />
 </p>
 
 - Html5
@@ -52,7 +52,7 @@ Luto por uma web para todos e contra todo e qualquer tipo de preconceito dentro 
 
 
 <p display="flex" justf-content="space-arround" align-item="center">
-  <img src="https://raw.githubusercontent.com/karllasouzza/Karllasouzza/main/Label-estatisticas.png" alt="Estatisticas" />
+  <img src="./Label-estatisticas.png" alt="Estatisticas" />
 </p>
 <br />
 
@@ -66,7 +66,7 @@ Luto por uma web para todos e contra todo e qualquer tipo de preconceito dentro 
 
 
 <p display="flex" justf-content="space-arround" align-item="center">
-  <img src="https://raw.githubusercontent.com/karllasouzza/Karllasouzza/main/Label-livros.png" alt="Leituras" />
+  <img src="./Label-livros.png" alt="Leituras" />
 </p>
 <br />
 
@@ -79,7 +79,7 @@ Luto por uma web para todos e contra todo e qualquer tipo de preconceito dentro 
 
 
 <p display="flex" justf-content="space-arround" align-item="center">
-  <img src="https://raw.githubusercontent.com/karllasouzza/Karllasouzza/main/Label-name.png" alt="Karlla Souzza" />
+  <img src="./Label-name.png" alt="Karlla Souzza" />
 </p>
 <br />
 
