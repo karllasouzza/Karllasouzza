@@ -1,21 +1,41 @@
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:karlla.souzza7@gmail.com)](mailto:karlla.souzza7@gmail.com)
+<br />
 
-<h1>Sobre 🌈</h1>
+<p display="flex" justf-content="space-arround" align-item="center">
+  <img src="https://raw.githubusercontent.com/karllasouzza/Karllasouzza/main/Label-sobre.png" alt="Sobre" />
+</p>
+<br />
 
-Meu nome é 'Júlio Cesar Pereira Filho', sou uma mulher transexual e meu nome social é 'Karlla Souzza'. Gosto de seguir o meu coração e descobri uma paixão por programação web e web design, sou apaixonada por livros, gosto de escrever documentos para ajudar as pessoas no desenvolvimento web.
-Meu primeiro contato com programação foi em janeiro de 2020 na faculdade, desde então venho aprofundando meus conhecimentos e expandindo para o design.
-Luto por uma web para todos e contra todo tipo de preconceito.
 
-<h1> Paixões 💞 </h1>
+<p align="center">
+Sou uma mulher transexual gosto muito de seguir o meu coração, eu sou apaixonada por programação web, web design e principalmente VueJs; Costumo ler livros e gosto de escrever documentos para ajudar as pessoas no desenvolvimento web com JavaScript(ecmaScript). Meu primeiro contato com programação foi em janeiro de 2020 na faculdade, desde então venho aprofundando meus conhecimentos e expandindo para o design entre outras áreas. 
+Luto por uma web para todos e contra todo e qualquer tipo de preconceito dentro e fora da web. 
+</p>
+<br />
+<br />
+
+
+<p display="flex" justf-content="space-arround" align-item="center">
+  <img src="https://raw.githubusercontent.com/karllasouzza/Karllasouzza/main/Label-lovers.png" alt="Paixoes" />
+</p>
+
+<br />
+
+
+<p align="center" >
 
 - Músicas 🎶;
 - Ensinar web design ✒️;
 - Ensinar programação web 💻;
-- Leir livros 📚;
+- Ler livros 📚;
 - Lutar contra todo e qualquer preconceito 🌈;
 - Lutar por uma web para todos ♿.
+</p>
+<br />
+<br />
 
-<h1> O que estou aprendendo na faculdade? 💻</h1>
+<p display="flex" justf-content="space-arround" align-item="center">
+  <img src="https://raw.githubusercontent.com/karllasouzza/Karllasouzza/main/Label-aprendendo.png" alt="Aprendendo" />
+</p>
 
 - Html5
 - Css3
@@ -24,23 +44,47 @@ Luto por uma web para todos e contra todo tipo de preconceito.
 - PHP / Laravel 
 - Modelagem de banco de dados Sql
 - WordPress / Elementor
-- Web Design / Design para plataformas (Design Fisico)
+- Web Design / Design para plataformas
+- React / React Native
 
-<h1>Estatisticas 🚀</h1>
+<br />
+<br />
 
-![Karllasouzza Estatisticas](https://github-readme-stats.vercel.app/api?username=karllasouzza&show_icons=true)
 
+<p display="flex" justf-content="space-arround" align-item="center">
+  <img src="https://raw.githubusercontent.com/karllasouzza/Karllasouzza/main/Label-estatisticas.png" alt="Estatisticas" />
+</p>
+<br />
+
+<p align="center"
+   
+[![Karllasouzza Estatisticas](https://github-readme-stats.vercel.app/api?username=karllasouzza&show_icons=true)
 [![Melhores linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karllasouzza&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+<br />
+<br />
 
-<h1>O 'que estou lendo Atualmente 📒 ?</h1>
+
+<p display="flex" justf-content="space-arround" align-item="center">
+  <img src="https://raw.githubusercontent.com/karllasouzza/Karllasouzza/main/Label-livros.png" alt="Leituras" />
+</p>
+<br />
+
 
 - Design Para Quem Não É Designer;
 - O Design Do Dia Dia.
 
-<h1>O que estou aprendendo?</h1>
+<br />
+<br />
 
-- Modelagem 3d
-- C##
-- Quasar Framework
-- NativeScript - VueJs
-- Vue Native
+
+<p display="flex" justf-content="space-arround" align-item="center">
+  <img src="https://raw.githubusercontent.com/karllasouzza/Karllasouzza/main/Label-name.png" alt="Karlla Souzza" />
+</p>
+<br />
+
+<p align="center"
+  
+[![Linkedin Badge](https://img.shields.io/badge/-Karlla%20Souzza-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karlla-souzza/)](https://www.linkedin.com/in/karlla-souzza/)
+[![Gmail Badge](https://img.shields.io/badge/karlla.souzza7@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:karlla.souzza7@gmail.com)](mailto:karlla.souzza7@gmail.com)
+</p>
