@@ -1,11 +1,7 @@
+
+  <img align="center" target="none" src="./Label-sobre.png" alt="Sobre" />
+
 <br />
-
-<span display="flex" justf-content="space-arround" align-item="center">
-  <img noopener target="none" src="./Label-sobre.png" alt="Sobre" />
-</span>
-<br />
-
-
 <p align="center">
 Sou uma mulher transexual gosto muito de seguir o meu coração, eu sou apaixonada por programação web, web design e principalmente VueJs; Costumo ler livros e gosto de escrever documentos para ajudar as pessoas no desenvolvimento web com JavaScript(ecmaScript). Meu primeiro contato com programação foi em janeiro de 2020 na faculdade, desde então venho aprofundando meus conhecimentos e expandindo para o design entre outras áreas. 
 Luto por uma web para todos e contra todo e qualquer tipo de preconceito dentro e fora da web. 
