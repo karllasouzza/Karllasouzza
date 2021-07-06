@@ -54,7 +54,7 @@ Luto por uma web para todos e contra todo e qualquer tipo de preconceito dentro 
 
 <p align="center"
    
-[![Karllasouzza Estatisticas](https://github-readme-stats.vercel.app/api?username=karllasouzza&show_icons=true)
+![Karllasouzza Estatisticas](https://github-readme-stats.vercel.app/api?username=karllasouzza&show_icons=true)
 [![Melhores linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karllasouzza&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 <br />
