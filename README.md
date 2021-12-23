@@ -54,8 +54,8 @@ Luto por uma web para todos e contra todo e qualquer tipo de preconceito dentro 
 
 <p align="center">
   
-  <img src = "https://github-readme-stats.vercel.app/api?username=Karllasouzza&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Karllasouzza&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=Karllasouzza&show_icons=true&theme=vue" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Karllasouzza&theme=vue&hide_border=true" width = 400>
 </p>
 <br />
 <br />
