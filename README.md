@@ -7,4 +7,9 @@ I'm a transgender woman 🌈
 
 I am very passionate about web development & mobile development.
 
-![My Personal Status](https://github-readme-stats.vercel.app/api?username=Karllasouzza&theme=midnight-purple&hide_border=true) ![Current Streak Status](https://github-readme-streak-stats.herokuapp.com?user=Karllasouzza&theme=midnight-purple&hide_border=true)
+<p align="center">
+
+![My Personal Status](https://github-readme-stats.vercel.app/api?username=Karllasouzza&theme=midnight-purple&hide_border=true)
+
+![Current Streak Status](https://github-readme-streak-stats.herokuapp.com?user=Karllasouzza&theme=midnight-purple&hide_border=true)
+</p>
